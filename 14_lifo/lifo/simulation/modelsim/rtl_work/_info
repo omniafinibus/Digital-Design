@@ -1,0 +1,363 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/simulation/modelsim
+Eaddress_counter
+Z1 w1618486681
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/address_counter.vhd
+Z5 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/address_counter.vhd
+l0
+L4
+VjYfT6o@C;[7[zfbj^]DHd2
+!s100 mJ^AJO`1IaSa05QQAleAc3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1618486925
+!i10b 1
+Z8 !s108 1618486925.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/address_counter.vhd|
+Z10 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/address_counter.vhd|
+!i113 1
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Abdf_type
+R2
+R3
+DEx4 work 15 address_counter 0 22 jYfT6o@C;[7[zfbj^]DHd2
+l22
+L17
+VZ6iOjYWOYNo8?>:Dz;E5`0
+!s100 SZN6[5UG9?1zDh[>INUmh2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecomparator
+Z13 w1615388187
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+R0
+Z15 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/comparator.vhd
+Z16 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/comparator.vhd
+l0
+L5
+VS_5C]WS]`=[1FV]eeUV2m1
+!s100 A:h^;W>P5CnHHXfaeco@l3
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/comparator.vhd|
+Z18 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/comparator.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R14
+R2
+R3
+DEx4 work 10 comparator 0 22 S_5C]WS]`=[1FV]eeUV2m1
+l16
+L15
+V8c`H0PIFZ8ATd?4d^Y[ck0
+!s100 BB>cicdGNQWm7P7Y72GQ72
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Econtroller
+Z19 w1615387840
+R2
+R3
+R0
+Z20 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/controller.vhd
+Z21 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/controller.vhd
+l0
+L4
+Vj8E^4>z;1NkRfaRX`UNDE0
+!s100 AUU1@^_g:JXbeT?o:1e`93
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/controller.vhd|
+Z23 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/controller.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R2
+R3
+DEx4 work 10 controller 0 22 j8E^4>z;1NkRfaRX`UNDE0
+l20
+L18
+Vb2[jg8BLaKgDRHA_0@5S91
+!s100 4o4mbIAG6aTY4Q2lilFgF3
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Ein_mux
+Z24 w1613674883
+R2
+R3
+R0
+Z25 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/in_mux.vhd
+Z26 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/in_mux.vhd
+l0
+L4
+V1U=;X;J;UWIBH3>cB`I9]2
+!s100 ^g1L?569kN1@n<Fl5VVP53
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/in_mux.vhd|
+Z28 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/in_mux.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R2
+R3
+DEx4 work 6 in_mux 0 22 1U=;X;J;UWIBH3>cB`I9]2
+l19
+L17
+V3dMPIO79ePMbK5aQdcZ8[1
+!s100 I1o`@n=4h[T4<`>KN4]?E1
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Elifo
+Z29 w1618486916
+R2
+R3
+R0
+Z30 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/lifo.vhd
+Z31 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/lifo.vhd
+l0
+L25
+V1XKEAF4c9lZ^>T;oabl=T2
+!s100 UZ]mLm6LBmHGe[ljKbN0K2
+R6
+32
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/lifo.vhd|
+Z33 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/lifo.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R2
+R3
+DEx4 work 4 lifo 0 22 1XKEAF4c9lZ^>T;oabl=T2
+l97
+L39
+V6ZdN]B9=6`BDfZo9LSWg]1
+!s100 >4e_8F?@<U9DgCEBGO9cG2
+R6
+32
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Eout_mux
+Z34 w1614265003
+R2
+R3
+R0
+Z35 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/out_mux.vhd
+Z36 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/out_mux.vhd
+l0
+L4
+V0Dk>_UT@D;lgl?4V2<;_[1
+!s100 dVoaTel@i8za_YL[jGod`2
+R6
+32
+R7
+!i10b 1
+R8
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/out_mux.vhd|
+Z38 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/out_mux.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R2
+R3
+DEx4 work 7 out_mux 0 22 0Dk>_UT@D;lgl?4V2<;_[1
+l19
+L17
+V4nE8E[SKT`G5U14WAYYgB2
+!s100 F4gib;;3XRP3l?HQzLNDf2
+R6
+32
+R7
+!i10b 1
+R8
+R37
+R38
+!i113 1
+R11
+R12
+Eregister_bank
+Z39 w1615376614
+R2
+R3
+R0
+Z40 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bank.vhd
+Z41 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bank.vhd
+l0
+L25
+Vn9:?M2FFgUe6328CbR@UY1
+!s100 9L<fA2A:^@87`7B4VRPA[2
+R6
+32
+Z42 !s110 1618486926
+!i10b 1
+R8
+Z43 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bank.vhd|
+Z44 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bank.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R2
+R3
+DEx4 work 13 register_bank 0 22 n9:?M2FFgUe6328CbR@UY1
+l79
+L38
+V<Pk1kMCVM]=>2zCnC4VZ:0
+!s100 _ol;[:3:WHZJ0KENjT:aB0
+R6
+32
+R42
+!i10b 1
+R8
+R43
+R44
+!i113 1
+R11
+R12
+Eregister_bitslice
+Z45 w1614261994
+R2
+R3
+R0
+Z46 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bitslice.vhd
+Z47 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bitslice.vhd
+l0
+L4
+VZAFPNBiNaZUbhdia;MgkH1
+!s100 Ii_VBTOY<b_AGZQ;8f>`>2
+R6
+32
+R42
+!i10b 1
+Z48 !s108 1618486926.000000
+Z49 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bitslice.vhd|
+Z50 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_bitslice.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R2
+R3
+DEx4 work 17 register_bitslice 0 22 ZAFPNBiNaZUbhdia;MgkH1
+l18
+L16
+V3OAWEZ@N1SY8NkYI8@6P00
+!s100 0AAC1b1TQaCD^BEK0UEB01
+R6
+32
+R42
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R11
+R12
+Eregister_row
+Z51 w1615376571
+R2
+R3
+R0
+Z52 8C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_row.vhd
+Z53 FC:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_row.vhd
+l0
+L25
+VW;`gOl^Wk7S799QV@cX931
+!s100 beb<`FL:kb9f0L`FJ`c^^0
+R6
+32
+R42
+!i10b 1
+R48
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_row.vhd|
+Z55 !s107 C:/Users/alemm/OneDrive - Office 365 Fontys/Elektrotechniek/S4/Digital Design/Assignment 3/LIFO/lifo/register_row.vhd|
+!i113 1
+R11
+R12
+Abdf_type
+R2
+R3
+Z56 DEx4 work 12 register_row 0 22 W;`gOl^Wk7S799QV@cX931
+l50
+L36
+Z57 VVP0:jYVdID3e;d78NKbVg3
+Z58 !s100 gHXk`6mL5kY>4lN>N0f@C3
+R6
+32
+R42
+!i10b 1
+R48
+R54
+R55
+!i113 1
+R11
+R12
